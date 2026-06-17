@@ -34,7 +34,3 @@ Built to feel like a $50,000+ creative agency production.
 - Responsive design (mobile optimized)
 
 No frameworks. No templates. Fully custom layout.
-
----
-
-## 📁 Project Structure
